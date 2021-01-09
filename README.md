@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning ...
+
+### Quick overview
+ * GitHub stats:
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=johnoct&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=johnoct)  
